@@ -22,7 +22,10 @@ div {
  button {
   padding: 7px;
   border: solid 1px gray;
-  
+
+ }
+ p {
+    text-align: center;
  }
 /* block */
 /* inline */
